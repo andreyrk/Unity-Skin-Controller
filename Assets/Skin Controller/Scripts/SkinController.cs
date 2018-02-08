@@ -1,6 +1,5 @@
 ﻿using System;
 using UnityEngine;
-using UnityEditor;
 
 [RequireComponent(typeof(SpriteRenderer))]
 public class SkinController : MonoBehaviour {
